@@ -1,0 +1,2 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+C:/Users/vidit/Desktop/DV[[:space:]]-GRP4/*.csv filter=lfs diff=lfs merge=lfs -text
